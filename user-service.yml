@@ -8,4 +8,4 @@ spring:
     # Previously this pointed to flight_db (copy-paste error).
     url: jdbc:mysql://localhost:3306/airline_user
     username: root
-    password: $7090Ashok
+    password: 00000
