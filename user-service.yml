@@ -6,6 +6,6 @@ spring:
   datasource:
     # Each service should have its OWN database for microservice isolation.
     # Previously this pointed to flight_db (copy-paste error).
-    url: jdbc:mysql://localhost:3306/airline_user
+    url: jdbc:mysql://localhost:3306/userService
     username: root
     password: "00000"
