@@ -5,4 +5,4 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/airline_subscription
     username: root
-    password: 00000
+    password: "00000"
